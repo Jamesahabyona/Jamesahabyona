@@ -20,7 +20,7 @@ I am an advanced Stata user with expertise in statistical analysis and data mana
 
 ###
 
-Feel free to check out my repositories to see projects related to data cleaning, management, visualization, and analysis, as well as geospatial analysis.
+Feel free to check out my repositories to see projects related to data cleaning, management, visualization, and analysis, as well as geospatial analysis. These projects cover the following areas:
 
 1. **Web Scraping**: Automating the extraction of data from websites using Python.
 2. **Machine Learning**: Building predictive models using algorithms like regression, classification, and clustering.
