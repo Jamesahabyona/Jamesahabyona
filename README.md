@@ -23,7 +23,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 <img width="12" />
-<img src="Stata_logo_med_blue.png" height="40" alt="stata logo" />
+<img src="[Stata_logo_med_blue.png](https://github.com/Jamesahabyona/jamesahabyona.github.io/blob/master/Stata_logo_med_blue.png)" height="40" alt="stata logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
 
