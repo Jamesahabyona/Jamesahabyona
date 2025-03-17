@@ -14,19 +14,21 @@
 I am an advanced Stata user with expertise in statistical analysis and data management. Currently, I am expanding my skill set by learning R, SQL, and refining my Python abilities to further enhance my data science toolkit. Additionally, I am advancing my QGIS skills to apply geospatial analysis in various contexts.</p>
 
 
+###
+
 <h2 align="left">Projects</h2>
 
 ###
-Feel free to check out my repositories to see projects related to data cleaning, management, visualization and analysis, and geospatial analysis.
-#1: Web Scraping
 
-#2: Machine Learning
+Feel free to check out my repositories to see projects related to data cleaning, management, visualization, and analysis, as well as geospatial analysis.
 
-#3: Using Google Vision OCR to Digitize Historical Data
+1. **Web Scraping**: Automating the extraction of data from websites using Python.
+2. **Machine Learning**: Building predictive models using algorithms like regression, classification, and clustering.
+3. **Using Google Vision OCR to Digitize Historical Data**: Leveraging Google Vision's OCR to convert scanned documents into machine-readable data.
+4. **Data Analysis in Python**: Cleaning, processing, and analyzing datasets using Python libraries like Pandas and Matplotlib.
+5. **Geospatial Analysis in Python**: Using **QGIS** and **Python** to perform geospatial analysis on spatial datasets.
 
-#4: Data Analysis in Python
-
-#5: Geospatial Analysis in Python
+📦 Some projects are yet to be uploaded or are available upon request.
 
 ###
 
