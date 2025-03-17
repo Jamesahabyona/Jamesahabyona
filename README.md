@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ I am an applied microeconomist by training interested in using non-conventional data sources to study development related topics. My current research focuses on development economics topics such as mobile money, artisanal mining, higher education policy, decentralization, and early-life circumstances in Africa.<br><br>📚 I am an advanced Stata user, currently learning R, and SQL and refining my Python skills and QGIS.</p>
+<p align="left">✨ I am an applied microeconomist by training interested in using non-conventional data sources to study development related topics. My current research focuses on development economics topics such as mobile money, artisanal mining, higher education policy, decentralization, and early-life circumstances in Africa.<br><br>📚 
+I am an advanced **Stata** user with expertise in statistical analysis and data management. Currently, I am expanding my skill set by learning **R**, **SQL**, and refining my **Python** abilities to further enhance my data science toolkit. Additionally, I am advancing my **QGIS** skills to apply geospatial analysis in various contexts.
+
+Feel free to check out my repositories to see projects related to data cleaning, management, visualization and analysis, and geospatial analysis.
+.</p>
 
 ###
 
