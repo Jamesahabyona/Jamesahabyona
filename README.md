@@ -27,9 +27,6 @@ Feel free to check out my repositories to see projects related to data cleaning,
 3. **Using Google Vision OCR to Digitize Historical Data**: Leveraging Google Vision's OCR to convert scanned documents into machine-readable data.
 4. **Data Analysis in Python**: Cleaning, processing, and analyzing datasets using Python libraries like Pandas and Matplotlib.
 6. **Geospatial Analysis in Python**: Using **QGIS** and **Python** to perform geospatial analysis on spatial datasets.
-![DHS Gold Africa](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/dhsgoldafrica.png)
-
-![Price Index](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/price_index.png)
 
 📦 Some projects are yet to be uploaded or are available upon request.
 
@@ -61,6 +58,10 @@ Feel free to check out my repositories to see projects related to data cleaning,
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
 </a>
 
+
+![DHS Gold Africa](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/dhsgoldafrica.png)
+
+![Price Index](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/price_index.png)
 </div>
 
 ###
