@@ -19,13 +19,15 @@
 ###
 
 <div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/Jamesahabyona/jamesahabyona.github.io/master/Stata_logo_med_blue.png" height="40" alt="stata logo" />
+<img src="https://raw.githubusercontent.com/Jamesahabyona/jamesahabyona.github.io/master/Stata_logo_med_blue.png" height="60" alt="stata logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
+ <img src="https://raw.githubusercontent.com/Jamesahabyona/jamesahabyona.github.io/master/QGIS_logo%2C_2017.svg.png" height="60" alt="qgis logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="r logo" />
 
 </div>
 
