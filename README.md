@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Oi, Bem-vindo 👋  </h1>
 
 ###
 
-<p align="center">My name is James and I am a Ugandan based in Lisbon, Portugal.</p>
+<p align="left">My name is James and I am a Ugandan based in Lisbon, Portugal.</p>
 
 ###
 
