@@ -32,8 +32,9 @@
 </div>
 
 ###
-
-<div align="left">
+<h2 align="left">Social Media Handles </h2>
+###
+<div align="right">
   <a href="https://linkedin.com/in/james-ahabyona-236b81129/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
 </a>
