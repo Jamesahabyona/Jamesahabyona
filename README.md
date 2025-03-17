@@ -17,8 +17,10 @@ Feel free to check out my repositories to see projects related to data cleaning,
 
 
 .</p>
+<h2 align="left">Projects</h2>
+
 ###
-Projects
+
 #1: Web Scraping
 
 #2: Machine Learning
