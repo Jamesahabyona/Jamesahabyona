@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is James and I hold a Master's in Economics from Universidade NOVA de Lisboa Nova School of Business and Economics in Portugal.</p>
+<p align="left">My name is James and I hold a Master's in Economics from Universidade NOVA de Lisboa, Nova School of Business and Economics in Portugal.</p>
 
 ###
 
