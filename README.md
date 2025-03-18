@@ -62,7 +62,4 @@ Feel free to check out my repositories to see projects related to data cleaning,
 
 ![DHS Gold Africa](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/dhsgoldafrica.png)
 
-![Price Index](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/price_index.png)
-</div>
-
 ###
