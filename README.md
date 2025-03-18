@@ -58,7 +58,7 @@ Feel free to check out my repositories to see projects related to data cleaning,
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
 </a>
 
-![reproducible research](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/funamentals of reproducible research.png)
+![Reproducible Research](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/funamentals%20of%20reproducible%20research.png)
 
 ![DHS Gold Africa](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/dhsgoldafrica.png)
 
