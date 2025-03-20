@@ -22,10 +22,10 @@ I am an advanced Stata user with expertise in statistical analysis and data mana
 
 Feel free to check out my repositories to see projects related to data cleaning, management, visualization, and analysis, as well as geospatial analysis. These projects cover the following areas:
 
-1. **Web Scraping**: Used beauitful soup to extract data from websites using Python.
+1. **Web Scraping**: Used beauitful soup to extract data from websites
 2. **Machine Learning**: Developed unpservised and unsepruvsied machine learning algorithms 
 3. **Using Google Vision OCR to Digitize Historical Data**: Used Google Vision's OCR to digitize scanned academic documents 
-4. **Data Analysis in Python**: Cleaning, processing, and analyzing datasets using Python libraries like Pandas and Matplotlib.
+4. **Data Analysis in Python**: Used python libraries like Pandas, Seaborn and Matplotlib to Clean, explore, analyze and visualize datasets
 6. **Geospatial Analysis in Python**: Used **QGIS** and **Python** analysis on spatial datasets.
 
 📦 Some projects are yet to be uploaded or are available upon request.
