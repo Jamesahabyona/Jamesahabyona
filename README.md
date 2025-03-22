@@ -25,7 +25,7 @@ Feel free to check out my repositories to see projects related to data cleaning,
 1. **Web Scraping**: Used beauitful soup to extract data from websites
 2. **Machine Learning**: Applied unsupervised, supervised machine learning algorithms and Natural Language Processing(NLP)
 3. **Using Google Vision OCR to Digitize Historical Data**: Used Google Vision's OCR to digitize scanned academic documents 
-4. **Data Analysis in Python**: Used python libraries like Pandas, Seaborn and Matplotlib to Clean, explore, analyze and visualize data.
+4. **Data Analysis in Python and Stata**: Used python libraries like Pandas, Seaborn and Matplotlib to Clean, explore, analyze and visualize data.
 
    [ Power Consumption in Tetouan City ](https://github.com/Jamesahabyona/Power-consumption)
 
