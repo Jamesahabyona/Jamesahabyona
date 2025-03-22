@@ -28,6 +28,7 @@ Feel free to check out my repositories to see projects related to data cleaning,
 4. **Data Analysis in Python and Stata**: Used python libraries like Pandas, Seaborn and Matplotlib to Clean, explore, analyze and visualize data.
 
    [ Power Consumption in Tetouan City ](https://github.com/Jamesahabyona/Power-consumption)
+   
    [ Contract Awards in Investment Project Financing ](https://github.com/Jamesahabyona/World-Bank-Procurement-Data-Analysis)
 
 6. **Geospatial Analysis**: Used **QGIS** and **Python** analysis on spatial datasets.
