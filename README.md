@@ -26,6 +26,7 @@ Feel free to check out my repositories to see projects related to data cleaning,
 2. **Machine Learning**: Applied unsupervised and supervised machine learning algorithms
 3. **Using Google Vision OCR to Digitize Historical Data**: Used Google Vision's OCR to digitize scanned academic documents 
 4. **Data Analysis in Python**: Used python libraries like Pandas, Seaborn and Matplotlib to Clean, explore, analyze and visualize data.
+
    [ Power Consumption of Tetouan City ](https://github.com/Jamesahabyona/Power-consumption)
 
 6. **Geospatial Analysis**: Used **QGIS** and **Python** analysis on spatial datasets.
