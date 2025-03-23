@@ -24,7 +24,7 @@ Feel free to check out my repositories to see projects related to data cleaning,
 
 1. **Web Scraping**: Used beauitful soup to extract data from websites
    
-   [ Scrapping Books Website ](https://github.com/Jamesahabyona/scrapping-websites)
+   [Scrapping A Books Website ](https://github.com/Jamesahabyona/scrapping-websites)
 
 3. **Machine Learning**: Applied unsupervised, supervised machine learning algorithms and Natural Language Processing(NLP)
 4. **Using Google Vision OCR to Digitize Historical Data**: Used Google Vision's OCR to digitize scanned academic documents 
