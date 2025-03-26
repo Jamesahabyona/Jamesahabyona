@@ -26,13 +26,13 @@ Feel free to check out my repositories to see projects related to data cleaning,
    
    [Scrapping A Books Website ](https://github.com/Jamesahabyona/scrapping-websites)
    
-   Scrapping Jumia Uganda Website -to be added soon
+   Jumia Uganda-to be added soon
    
-   Scrapping OLX Portugal -to be addded soon
+   OLX Portugal -to be addded soon
    
-   Scraping Ebay -to be added soon
+   Ebay -to be added soon
    
-   Scrapping Yahoo Finance -to be added soon 
+   Yahoo Finance -to be added soon 
 
 3. **Machine Learning**: Applied unsupervised, supervised machine learning algorithms and Natural Language Processing(NLP)
 4. **Using Google Vision OCR to Digitize Historical Data**: Used Google Vision's OCR to digitize scanned academic documents 
