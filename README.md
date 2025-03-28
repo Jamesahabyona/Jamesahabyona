@@ -34,7 +34,7 @@ Feel free to check out my repositories to see projects related to data cleaning,
    
    Yahoo Finance -to be added soon
 
-   Quarterly Journal of Economics 
+   Quarterly Journal of Economics - Sample code Available upon request
 
 3. **Machine Learning**: Applied unsupervised, supervised machine learning algorithms and Natural Language Processing(NLP)
 4. **Using Google Vision OCR to Digitize Historical Data**: Used Google Vision's OCR to digitize scanned academic documents
