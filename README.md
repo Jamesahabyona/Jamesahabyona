@@ -26,13 +26,13 @@ Feel free to check out my repositories to see projects related to data cleaning,
    
    [Scrapping A Books Website ](https://github.com/Jamesahabyona/scrapping-websites)
    
-   Jumia Uganda-to be added soon
+   Jumia Uganda - to be added soon
    
-   OLX Portugal -to be addded soon
+   OLX Portugal - to be addded soon
    
-   Ebay -to be added soon
+   Ebay - to be added soon
    
-   Yahoo Finance -to be added soon
+   Yahoo Finance - to be added soon
 
    Quarterly Journal of Economics - Sample code Available upon request
 
