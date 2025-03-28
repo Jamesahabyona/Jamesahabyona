@@ -22,7 +22,7 @@ I am an advanced Stata user with expertise in statistical analysis and data mana
 
 Feel free to check out my repositories to see projects related to data cleaning, management, visualization, and analysis, as well as geospatial analysis. These projects cover the following areas:
 
-1. **Web Scraping**: Used beauitful soup to extract data from websites
+1. **Web Scraping**: Used beauitful soup and from selenium to extract data from websites
    
    [Scrapping A Books Website ](https://github.com/Jamesahabyona/scrapping-websites)
    
@@ -32,7 +32,9 @@ Feel free to check out my repositories to see projects related to data cleaning,
    
    Ebay -to be added soon
    
-   Yahoo Finance -to be added soon 
+   Yahoo Finance -to be added soon
+
+   Quarterly Journal of Economics 
 
 3. **Machine Learning**: Applied unsupervised, supervised machine learning algorithms and Natural Language Processing(NLP)
 4. **Using Google Vision OCR to Digitize Historical Data**: Used Google Vision's OCR to digitize scanned academic documents
