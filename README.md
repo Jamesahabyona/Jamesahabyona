@@ -22,7 +22,7 @@ I am an advanced Stata user with expertise in statistical analysis and data mana
 
 Feel free to check out my repositories to see projects related to data cleaning, management, visualization, and analysis, as well as geospatial analysis. These projects cover the following areas:
 
-1. **Web Scraping**: Used beauitful soup and from selenium to extract data from websites
+1. **Web Scraping**: Used beauitful soup and selenium to extract data from websites
    
    [Scrapping A Books Website ](https://github.com/Jamesahabyona/scrapping-websites)
    
