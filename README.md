@@ -39,7 +39,7 @@ Feel free to check out my repositories to see projects related to data cleaning,
 3. **Machine Learning**: Applied unsupervised, supervised machine learning algorithms and Natural Language Processing(NLP)
 4. **Using Google Vision OCR to Digitize Historical Data**: Used Google Vision's OCR to digitize scanned academic documents
 
-   ***Sample code Available upon request***
+   ***Sample code Available on request***
    
 6. **Data Analysis in Python and Stata**: Used python libraries like Pandas, Seaborn and Matplotlib to Clean, explore, analyze and visualize data.
 
@@ -49,7 +49,7 @@ Feel free to check out my repositories to see projects related to data cleaning,
 
 7. **Geospatial Analysis**: Used **QGIS** and **Python** analysis on spatial datasets.
 
-📦 Some projects are yet to be uploaded or are available upon request.
+📦 Some projects are yet to be uploaded or are available on request.
 
 ###
 
