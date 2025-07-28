@@ -92,7 +92,7 @@ I hold a **Master's in Economics** from **Universidade NOVA de Lisboa**, Nova Sc
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on development economics research, data analysis projects, or discussing innovative approaches to economic development challenges in Africa.
+I'm always open to collaborating on development economics research, data analysis projects, or discussing innovative approaches to economic development challenges in Africa, LATAM and Asia.
 
 **💡 Interested in:**
 - Development economics research collaborations
@@ -104,7 +104,7 @@ I'm always open to collaborating on development economics research, data analysi
 
 <div align="center">
 
-*"Leveraging data to understand and improve economic development outcomes"*
+*"Transforming data into actionable insights"*
 
 ⭐ **Feel free to star repositories you find interesting!** ⭐
 
