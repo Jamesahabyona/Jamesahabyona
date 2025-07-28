@@ -5,7 +5,21 @@
 
 MSc Economics, Nova SBE Portugal. Research focus: technology adoption, artisanal mining, higher education policy in Africa using non-conventional data sources such as text, historical maps, and GIS data
 
-**Tech:** Python • Stata • R • SQL • QGIS
+## 💻 Technical Skills
+
+### Programming & Statistical Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1f4788?style=for-the-badge&logo=stata&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Geospatial & Visualization Tools
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ## Projects
 **[Books Website Scraper](https://github.com/Jamesahabyona/scrapping-websites)** - Web scraping with BeautifulSoup & Selenium  
