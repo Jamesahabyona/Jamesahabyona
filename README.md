@@ -1,86 +1,113 @@
-<h1 align="left">Oi, Bem-vindo 👋  </h1>
+# 👋 Hello, I'm James Ahabyona
 
-###
+**Applied Microeconomist | Development Economics Researcher | Data Analyst**
 
-<p align="left">My name is James and I hold a Master's in Economics from Universidade NOVA de Lisboa, Nova School of Business and Economics in Portugal.</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-ahabyona-236b81129/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/a_ha256)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🎓 About Me
 
-###
+I hold a **Master's in Economics** from **Universidade NOVA de Lisboa**, Nova School of Business and Economics in Portugal. As an applied microeconomist, I specialize in leveraging non-conventional data sources including text analysis, historical maps, and GIS data to study development economics.
 
-<p align="left">✨ I am an applied microeconomist interested in using non-conventional data sources such as text, Historical Maps, GIS data to study development related topics. My current research focuses on development economics topics such as mobile money, artisanal mining, higher education policy, decentralization, and early-life circumstances in Africa.<br><br>📚 
-I am an advanced Stata user with expertise in statistical analysis and data management. Currently, I am expanding my skill set by learning R, SQL, and refining my Python abilities. Additionally, I am polishing my QGIS skills to analyze geospatial data.</p>
+### 🔬 Research Focus
+- **Mobile Money Systems** in developing economies
+- **Artisanal Mining** economic impacts
+- **Higher Education Policy** analysis
+- **Decentralization** effects on development
+- **Early-life Circumstances** in African contexts
 
+---
 
-###
+## 💻 Technical Skills
 
-<h2 align="left">Projects</h2>
+### Programming & Statistical Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1f4788?style=for-the-badge&logo=stata&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-###
+### Geospatial & Visualization Tools
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Feel free to check out my repositories to see projects related to data cleaning, management, visualization, and analysis, as well as geospatial analysis. These projects cover the following areas:
+---
 
-1. **Web Scraping**: Used beauitful soup and selenium to extract data from websites
-   
-   [Scrapping A Books Website ](https://github.com/Jamesahabyona/scrapping-websites)
-   
-   Jumia Uganda - to be added soon
-   
-   OLX Portugal - to be addded soon
-   
-   Ebay - to be added soon
-   
-   Yahoo Finance - to be added soon
+## 🚀 Featured Projects
 
-   Quarterly Journal of Economics - ***Sample code Available upon request***
+### 🕷️ Web Scraping & Data Collection
+- **[Books Website Scraper](https://github.com/Jamesahabyona/scrapping-websites)** - Beautiful Soup & Selenium implementation
+- **Jumia Uganda Scraper** - *Coming Soon*
+- **OLX Portugal Data Extraction** - *Coming Soon*
+- **eBay Price Analysis** - *Coming Soon*
+- **Yahoo Finance Data Pipeline** - *Coming Soon*
+- **Academic Journal Scraper** - *Available upon request*
 
-3. **Machine Learning**: Applied unsupervised, supervised machine learning algorithms and Natural Language Processing(NLP)
-4. **Using Google Vision OCR to Digitize Historical Data**: Used Google Vision's OCR to digitize scanned academic documents
+### 🤖 Machine Learning & NLP
+- **Supervised Learning Models** for economic prediction
+- **Unsupervised Clustering** for market segmentation  
+- **Natural Language Processing** for policy document analysis
+- **Google Vision OCR** for historical document digitization - *Available upon request*
 
-   ***Sample code Available on request***
-   
-6. **Data Analysis in Python and Stata**: Used python libraries like Pandas, Seaborn and Matplotlib to Clean, explore, analyze and visualize data.
+### 📊 Data Analysis & Visualization
+- **[Power Consumption Analysis - Tetouan City](https://github.com/Jamesahabyona/Power-consumption)** 
+  - Time series analysis and forecasting
+  - Energy consumption pattern identification
+  
+- **[World Bank Procurement Analysis](https://github.com/Jamesahabyona/World-Bank-Procurement-Data-Analysis)**
+  - Contract awards in investment project financing
+  - Statistical analysis of procurement patterns
 
-   [ Power Consumption in Tetouan City ](https://github.com/Jamesahabyona/Power-consumption)
-   
-   [ Contract Awards in Investment Project Financing ](https://github.com/Jamesahabyona/World-Bank-Procurement-Data-Analysis)
+### 🗺️ Geospatial Analysis
+- **QGIS-based spatial analysis** of development indicators
+- **Python geospatial libraries** for location-based insights
+- **Historical map digitization** for development research
 
-7. **Geospatial Analysis**: Used **QGIS** and **Python** analysis on spatial datasets.
+---
 
-📦 Some projects are yet to be uploaded or are available on request.
+## 🏆 Certifications & Recognition
 
-###
+<div align="center">
 
-<h2 align="left">I code with</h2>
-
-<div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/Jamesahabyona/jamesahabyona.github.io/master/Stata_logo_med_blue.png" height="60" alt="stata logo" />
-<img width="12" />
- <img src="https://raw.githubusercontent.com/Jamesahabyona/jamesahabyona.github.io/master/QGIS_logo%2C_2017.svg.png" height="60" alt="qgis logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="r logo" />
+![Reproducible Research](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/funamentals%20of%20reproducible%20research.png)
+![DHS Gold Africa](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/dhsgoldafrica.png)
 
 </div>
 
-###
-<h2 align="right">Social Media Handles </h2>
+---
 
-<div align="right">
-  <a href="https://linkedin.com/in/james-ahabyona-236b81129/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-</a>
-<a href="https://x.com/a_ha256" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
-</a>
+## 📈 GitHub Stats
 
-![Reproducible Research](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/funamentals%20of%20reproducible%20research.png)
+<div align="center">
 
-![DHS Gold Africa](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/dhsgoldafrica.png)
+![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jamesahabyona&show_icons=true&theme=default&hide_border=true)
 
-###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamesahabyona&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on development economics research, data analysis projects, or discussing innovative approaches to economic development challenges in Africa.
+
+**💡 Interested in:**
+- Development economics research collaborations
+- Data analysis consulting opportunities  
+- Academic partnerships
+- Open source contributions to economic research tools
+
+---
+
+<div align="center">
+
+*"Leveraging data to understand and improve economic development outcomes"*
+
+⭐ **Feel free to star repositories you find interesting!** ⭐
+
+</div>
