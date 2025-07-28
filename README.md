@@ -97,7 +97,6 @@ I'm always open to collaborating on development economics research, data analysi
 **💡 Interested in:**
 - Development economics research collaborations
 - Data analysis consulting opportunities  
-- Academic partnerships
 - Open source contributions to economic research tools
 
 ---
