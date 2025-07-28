@@ -1,4 +1,4 @@
-# 👋 Oi, Bem-vindo !!  I'm James Ahabyona
+# 👋 Oi, Bem-vindo!  I'm James Ahabyona
 
 **Applied Microeconomist | Development Economics Researcher | Data Analyst | Research Analyst**
 
