@@ -73,7 +73,7 @@ I hold a **Master's in Economics** from **Universidade NOVA de Lisboa**, Nova Sc
 <div align="center">
 
 ![Reproducible Research](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/funamentals%20of%20reproducible%20research.png)
-![DHS Gold Africa](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/dhsgoldafrica.png)
+![DHS Gold Africa](https://raw.githubusercontent.com/Jamesahabyona/Jamesahabyona/main/dhsgoldafricad.png) 
 
 </div>
 
