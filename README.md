@@ -13,3 +13,13 @@ MSc Economics, Nova SBE Portugal. Research focus: technology adoption, mining ec
 **[World Bank Procurement Data](https://github.com/Jamesahabyona/World-Bank-Procurement-Data-Analysis)** - Contract awards statistical analysis
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jamesahabyona&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+<div align="center">
+
+*"Transforming data into actionable insights"*
+
+⭐ **Feel free to star repositories you find interesting!** ⭐
+
+</div>
