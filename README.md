@@ -12,12 +12,12 @@
 
 I hold a **Master's in Economics** from **Universidade NOVA de Lisboa**, Nova School of Business and Economics in Portugal. As an applied microeconomist, I specialize in leveraging non-conventional data sources including text analysis, historical maps, and GIS data to study development economics.
 
-### 🔬 Research Focus
-- **Mobile Money Systems** in developing economies
-- **Artisanal Mining** economic impacts
+### 🔬 Current Research Focus
+- **Technology Adoption** in developing economies e.g Mobile Money
+- **Artisanal Mining** 
 - **Higher Education Policy** analysis
 - **Decentralization** effects on development
-- **Early-life Circumstances** in African contexts
+- **Early-life Circumstances**
 
 ---
 
