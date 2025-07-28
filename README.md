@@ -10,7 +10,7 @@
 
 ## 🎓 About Me
 
-I hold a **Master's in Economics** from **Universidade NOVA de Lisboa**, Nova School of Business and Economics in Portugal. As an applied microeconomist, I specialize in leveraging non-conventional data sources including text analysis, historical maps, and GIS data to study development economics.
+I hold a **Master's in Economics** from **Universidade NOVA de Lisboa**, Nova School of Business and Economics in Portugal. As an applied microeconomist, I specialize in leveraging non-conventional data sources including text analysis, historical maps, and GIS data to study development related topics.
 
 ### 🔬 Current Research Focus
 - **Technology Adoption** e.g Mobile Money
