@@ -62,9 +62,9 @@ I hold a **Master's in Economics** from **Universidade NOVA de Lisboa**, Nova Sc
   - Statistical analysis of procurement patterns
 
 ### 🗺️ Geospatial Analysis
-- **QGIS-based spatial analysis** of development indicators
-- **Python geospatial libraries** for location-based insights
-- **Historical map digitization** for development research
+- **QGIS-based spatial analysis** 
+- **Geospatial in Python** 
+- **Historical map digitization** 
 
 ---
 
