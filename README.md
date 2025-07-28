@@ -22,10 +22,14 @@ MSc Economics, Nova SBE Portugal. Research focus: technology adoption, artisanal
 ---
 
 ## Projects
--**[Books Website Scraper](https://github.com/Jamesahabyona/scrapping-websites)** 
+-**[Books Website Scraper](https://github.com/Jamesahabyona/scrapping-websites)**
+
 -**[Power Consumption Analysis](https://github.com/Jamesahabyona/Power-consumption)**
+
 -**[World Bank Procurement Data](https://github.com/Jamesahabyona/World-Bank-Procurement-Data-Analysis)** 
+
 -**Google Vision OCR for historical document digitization** - *Available upon request*
+
 -**Academic Journal Scraper** - *Available upon request*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jamesahabyona&show_icons=true&theme=default&hide_border=true&count_private=true)
