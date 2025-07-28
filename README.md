@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/james-ahabyona-236b81129/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/a_ha256) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:jemo44t@gmail.com)
 
-MSc Economics, Nova SBE Portugal. Research focus: technology adoption, mining economics, education policy in Africa using non-conventional data sources.
+MSc Economics, Nova SBE Portugal. Research focus: technology adoption, artisanal mining, higher education policy in Africa using non-conventional data sources such as text, historical maps, and GIS data
 
 **Tech:** Python • Stata • R • SQL • QGIS
 
