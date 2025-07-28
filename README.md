@@ -55,7 +55,6 @@ I hold a **Master's in Economics** from **Universidade NOVA de Lisboa**, Nova Sc
 
 ### 📊 Data Analysis & Visualization
 - **[Power Consumption Analysis - Tetouan City](https://github.com/Jamesahabyona/Power-consumption)** 
-  - Time series analysis and forecasting
   - Energy consumption pattern identification
   
 - **[World Bank Procurement Analysis](https://github.com/Jamesahabyona/World-Bank-Procurement-Data-Analysis)**
