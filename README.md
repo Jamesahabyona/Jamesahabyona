@@ -23,6 +23,7 @@ MSc Economics, Nova SBE Portugal. Research focus: technology adoption, artisanal
 
 ## Projects
 -**[Books Website Scraper](https://github.com/Jamesahabyona/scrapping-websites)**
+
 -**[Scrapping Electronic Products Data from Jumia](https://github.com/Jamesahabyona/scrapping_jumia_electronic_pdts)**
 
 -**[Power Consumption Analysis](https://github.com/Jamesahabyona/Power-consumption)**
